@@ -2,9 +2,9 @@ using System.Reflection;
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("Proj.NET")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Proj.NET performs point-to-point coordinate conversions between geodetic coordinate systems for use in fx, Geographic Information Systems (GIS) or GPS applications. The spatial reference model used adheres to the Simple Features specification.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Proj.NET")]
 [assembly: AssemblyProduct("Proj.NET")]
 [assembly: AssemblyCopyright("Copyright © 2009")]
 [assembly: AssemblyTrademark("")]

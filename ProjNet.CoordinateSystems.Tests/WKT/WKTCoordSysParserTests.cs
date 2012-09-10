@@ -1,12 +1,13 @@
 using System;
-using System.Globalization;
 using System.IO;
+using GeoAPI.CoordinateSystems;
+using GeoAPI.CoordinateSystems.Transformations;
 using NUnit.Framework;
 using ProjNet.Converters.WellKnownText;
 using ProjNet.CoordinateSystems;
 using ProjNet.CoordinateSystems.Transformations;
 
-namespace ProjNet.UnitTests.Converters.WKT
+namespace ProjNet.UnitTests.WKT
 {
 	[TestFixture]
 	public class WKTCoordSysParserTests

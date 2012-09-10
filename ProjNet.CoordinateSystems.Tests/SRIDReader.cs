@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using System.IO;
+using GeoAPI.CoordinateSystems;
 using ProjNet.Converters.WellKnownText;
 using ProjNet.CoordinateSystems;
 
